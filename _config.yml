@@ -55,7 +55,7 @@ menu:
 #    url:               /docs/
   - title:             About
     url:               /about/
-  - title:             projects
+  - title:             Projects
     url:               /projects/
 
 # Add links to the footer.
@@ -403,24 +403,21 @@ jekyll_compose:
     drafts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Stefan Fred's Portfolio for continuous learning and showcase passion projects.
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Stefan Fred's Portfolio for continuous learning and showcase passion projects.
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Stefan Fred's Portfolio for continuous learning and showcase passion projects.
       image:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
-          url: https://example.com
+          url: https://www.stefan-dev.com/projects
