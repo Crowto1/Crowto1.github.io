@@ -43,7 +43,6 @@ Gemfile.lock
 _zip
 /stats.json
 .dev.vars
-/example
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
