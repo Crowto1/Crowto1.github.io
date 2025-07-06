@@ -15,8 +15,5 @@ Contemporaneous notes will be maintained and digitally signed by the end of each
 | Exhibit        | Description|
 |:---------------|:-----------|
 | #DFT-USB-A-218 |Forensic image of a USB stick |
-| #DFT-MD5-A-218 |         4  |
-| Charlie  |         7  |
-|==========|============|
-|Totals    |        21  |
+| #DFT-MD5-A-218 |Exhibit contains the MD5 hash value of the USB stick provided by the line manager.|
 
