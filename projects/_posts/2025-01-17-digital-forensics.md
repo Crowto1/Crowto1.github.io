@@ -19,12 +19,12 @@ Contemporaneous notes will be maintained and digitally signed by the end of each
 | #DFT-USB-A-218 |Forensic image of a USB stick |
 | #DFT-MD5-A-218 |Exhibit contains the MD5 hash value of the USB stick provided by the line manager.|
 
-| Tools / Operating system used | Version|
-|:---------------|:-----------|
-|Tsurugi Linux VM|6.9.3|
-|Autopsy|4.21.0|
-|John the Ripper|1.9.0 |
-|Python|3.9.0 |
+| Tools / Operating system used | Version| Purpose |
+|:---------------|:-----------|:--------------------|
+|Tsurugi Linux VM|6.9.3|Operating system |
+|Autopsy|4.21.0|GUI Digital forensics platform |
+|John the Ripper|1.9.0 | Password cracking tool for recovered password protected zip files |
+|Python|3.9.0 | Create scripts to automate extracting hidden plaintext from stego images (steganography) |
 
 ### Questions: 
 1.	**Is there evidence on the USB stick #DFT-USB-A-218 that suggests that it contains or contained weapon images? - If so, how many unique images are there?** 
