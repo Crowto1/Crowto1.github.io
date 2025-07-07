@@ -40,4 +40,4 @@ Questions:
 5.	Is there evidence of another party having accessed the USB stick?
 -	Examine the metadata of the files to find other owners. Create a python script to automate this.
 
-<src img="/assets/img/blog/df-cn-proof.png"></src>
+![800x400](/assets/img/blog/df-cn-proof.png "Large example image")
