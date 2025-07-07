@@ -2,7 +2,7 @@
 layout: post
 title: Digital Forensics - USB drive investigation
 description: >
-  The importance of contemporaneous notes in digital forensics. A USB drive investigation answering questions from a Line Manager. 
+  The importance of contemporaneous notes in digital forensics. A simulation where I act as a digital forensics expert to find malicious images from a USB drive taken as evidence.
 sitemap: false
 hide_last_modified: true
 ---
