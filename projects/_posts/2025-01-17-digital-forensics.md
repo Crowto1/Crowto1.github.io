@@ -3,9 +3,12 @@ layout: post
 title: Digital Forensics - USB drive investigation
 description: >
   The importance of contemporaneous notes in digital forensics. A USB drive investigation answering questions from a Line Manager. 
+image:
+  path: /assets/img/blog/autopsy-logo.png
 sitemap: false
 hide_last_modified: true
 ---
+![800x400](/assets/img/blog/autopsy-logo.png "Autopsy")
 
 This investigation focuses on the forensic analysis of a USB stick image, validated against its provided MD5 hash to ensure integrity. All actions taken during the investigation will be thoroughly documented, including accurate timestamps and the specific forensic tools used, along with their version numbers.
 
