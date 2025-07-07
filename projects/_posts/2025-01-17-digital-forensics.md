@@ -23,8 +23,9 @@ Contemporaneous notes will be maintained and digitally signed by the end of each
 |:---------------|:-----------|
 |Tsurugi Linux VM|6.9.3|
 |Autopsy|4.21.0|
-|Autopsy|1.9.0 |
-|Autopsy|3.9.0 |
+|John the Ripper|1.9.0 |
+
+|Python|3.9.0 |
 
 Questions: 
 1.	Is there evidence on the USB stick #DFT-USB-A-218 that suggests that it contains or contained weapon images? - If so, how many unique images are there? 
@@ -38,3 +39,5 @@ Questions:
 -	Make it clear on the definition of illegal imports with the line manager, does it mean external downloads, location of the images etc... Send an email to clear this up.
 5.	Is there evidence of another party having accessed the USB stick?
 -	Examine the metadata of the files to find other owners. Create a python script to automate this.
+
+<src img="/assets/img/blog/df-cn-proof.png"></src>
