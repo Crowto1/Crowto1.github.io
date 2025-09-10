@@ -58,32 +58,34 @@ I’ve collected evidence from exhibit #DFT-USB-A-218 and ensure integrity of th
 
 1.	**Evidence of weapon images: Does the USB stick (#DFT-USB-A-218) contain or appear to have previously contained weapon-related images? If so, how many unique images are present?**
 
-Yes, there is sufficient evidence that exhibit #DFT-USB-A-218 contains weapon-related images. A total of 16 unique weapon images were recovered from the USB stick:
+During my analysis of exhibit #DFT-USB-A-218, I identified 16 unique weapon images stored on the device:
 
--	5 images were found in the deleted _ILES folder.
--	11 images were located inside zip archives within the _ILES folder.
+- 5 images were recovered from the deleted _ILES folder.
+- 11 images were extracted from compressed archives within the same folder.
 
-Additionally, two more unique weapon images were identified through the suspect's web history database; however, these two were not found on the USB stick itself. In total, 18 unique weapon images were identified during the investigation, with 16 of them residing on exhibit #DFT-USB-A-218.
+Further investigation of the suspect’s web history uncovered 2 additional unique images that were not present on the USB stick itself.
+
+In total, my investigation revealed 18 unique weapon images, with 16 directly linked to exhibit #DFT-USB-A-218.
 
 2.	**Source of images: Is there evidence indicating how the images were obtained?**
 
-Yes. The 16 weapon images stored on the USB stick were sourced from the website operated by individuals named James and Dan. To access these images, the suspect downloaded publicly available images from the site and used a Least Significant Bit (LSB) steganography tool to extract passphrases, which were then used to unlock the weapon images.
+The 16 weapon images recovered from the USB stick were traced back to a website operated by individuals identified as James and Dan. The suspect accessed these by downloading publicly available images from the site and applying a Least Significant Bit (LSB) steganography tool to extract hidden passphrases, which were then used to unlock the weapon images.
 
-The two additional images (not present on the USB stick) were accessed by visiting weapongrove.com and wikipedia.org, as confirmed through the suspect’s browser history database.
+In addition, analysis of the browser history confirmed that the suspect accessed two further weapon images (not stored on the USB stick) via weapongrove.com and wikipedia.org.
 
 3.	**Individual vs group involvement: Are there signs that the suspect acted independently or as part of an organized group?**
 
-Yes. Evidence indicates that the suspect, Ben, is a member of an organised group. The leadership of this group appears to include James and Dan, as supported by:
+The investigation revealed evidence linking the suspect, Ben, to an organised group led by James and Dan. This conclusion is supported by two key findings:
 
--	A hidden message found in Crime.pdf.
--	A secret email from Dan referencing collaboration between him and James.
+- A hidden message embedded within Crime.pdf.
+- A secret email from Dan referencing his collaboration with James.
 
-These findings suggest coordinated efforts and hierarchical structure within the group.
+Together, these findings point to a coordinated operation with a defined hierarchy.
 
 4.	**As weapon images are not illegal outside of England, is there evidence of potential illegal imports of such images? If so, for how long?** 
 
-No conclusive evidence was found to support the occurrence of illegal imports. The available data shows downloads from open sources such as Wikipedia and Google, but these do not provide a reliable indication of geographic origin or illegality.
+The investigation found no conclusive evidence of illegal imports. Available data indicated downloads from open sources such as Wikipedia and Google, but these did not provide reliable information about geographic origin or confirm any illegality.
 
 5.	**Is there evidence of another party having accessed the USB stick?**
 
-No. Forensic analysis revealed no evidence of any user other than Ben accessing the USB stick.
+Forensic analysis found no indication of access by any user other than Ben on the USB stick.
