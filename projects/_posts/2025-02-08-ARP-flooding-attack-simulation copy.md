@@ -1,14 +1,8 @@
 ---
 layout: post
-title: (writeup ongoing) Detection and Mitigation of ARP Flooding Attacks Using Packet Crafting and Network Intrusion Detection
+title: (writeup ongoing) ARP Flood Detection and Prevention Lab
 description: >
-  This project involved designing, executing, and defending against an Address Resolution Protocol (ARP) flooding attack within a controlled lab environment. The objective was to simulate a realistic Layer 2 network attack, analyse its impact on local network stability, and implement detection and prevention mechanisms using industry-standard tools.
-
-  Using Scapy, I crafted and transmitted malicious ARP packets to flood the target network with forged ARP responses. This simulated a denial-of-service condition and demonstrated how excessive ARP traffic can overwhelm switching tables and disrupt legitimate communication. The attack environment was isolated to ensure safe testing and ethical experimentation.
-
-  To analyse the attack traffic, I captured and inspected packets using Wireshark. This allowed detailed examination of ARP request and reply behaviour, packet frequency, MAC address anomalies, and abnormal broadcast patterns. Through protocol-level inspection, I identified indicators of compromise such as excessive unsolicited ARP replies and repeated spoofed MAC mappings.
-
-  For detection and prevention, I configured Snort with custom rules to identify abnormal ARP packet rates and suspicious ARP activity. I tested rule effectiveness by tuning detection thresholds to reduce false positives while maintaining reliable alerting. Preventative controls were then evaluated, including rate limiting, static ARP entries, and switch-level mitigation strategies.
+  In this lab, I simulated an ARP flooding attack using Scapy and analysed traffic behaviour with Wireshark to understand Layer 2 attack patterns. Detection and mitigation were implemented using Snort with custom rules to identify and reduce malicious ARP activity.
 sitemap: false
 hide_last_modified: true
 ---

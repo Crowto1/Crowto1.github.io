@@ -1,14 +1,8 @@
 ---
 layout: post
-title: (Writeup ongoing) Secure Infrastructure Provisioning in AWS Using CloudFormation with Audit Validation via CloudTrail
+title: (Writeup ongoing) Secure AWS Infrastructure with CloudFormation and CloudTrail
 description: >
-  This project focused on designing and deploying secure cloud infrastructure in AWS using infrastructure-as-code principles. I utilised AWS CloudFormation to provision EC2 instances and associated security groups with a strict least-privilege network configuration, ensuring that only essential ports were exposed. The objective was to minimise the attack surface while maintaining required service functionality.
-
-  Security groups were configured with tightly controlled inbound rules, avoiding broad CIDR ranges and unnecessary service exposure. Only explicitly required ports were permitted, and where possible, access was restricted to specific IP ranges. Outbound rules were also reviewed to prevent excessive egress permissions.
-
-  To ensure visibility and traceability, I enabled and analysed activity logs using AWS CloudTrail. CloudTrail was used to monitor API calls related to infrastructure deployment, security group modifications, and EC2 instance lifecycle events. This allowed verification that infrastructure changes aligned with the defined security posture and provided an audit trail for governance and incident response scenarios.
-
-  The project demonstrates practical experience in secure cloud provisioning, infrastructure automation, audit logging, and enforcing least-privilege network design within AWS. It reflects an understanding of how infrastructure configuration directly impacts cloud security risk and how logging mechanisms support detection and accountability.
+  This project involved deploying EC2 instances and tightly controlled security groups using AWS CloudFormation to enforce least-privilege network access and minimise exposed ports. Activity was monitored and validated using AWS CloudTrail to ensure full visibility of infrastructure changes and support auditability.
 sitemap: false
 hide_last_modified: true
 ---
